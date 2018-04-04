@@ -1,0 +1,50 @@
+{
+    "title": "test dyn",
+    "description": null,
+    "referenceId": null,
+    "date_created": "1522876568",
+    "date_modified": "1522876622",
+    "tags": null,
+    "sourceId": null,
+    "status": "pending",
+    "visibility": "1",
+    "id": "155042982",
+    "loginId": "1758823",
+    "entityType": "5",
+    "titleTextEncoded": "test-dyn",
+    "category": null,
+    "duration": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery",
+        "blocks": [
+            {
+                "add": "videos",
+                "conditions": {
+                    "lastNDays": "",
+                    "limit": "",
+                    "keyword": "",
+                    "page": true
+                },
+                "attributes": {
+                    "videos": {},
+                    "products": {
+                        "referenceId": ""
+                    }
+                },
+                "options": {},
+                "extras": {}
+            }
+        ],
+        "productBlock": {
+            "match": "all",
+            "recommended": false,
+            "attributes": {}
+        }
+    },
+    "transcripts": null,
+    "dynamicChannelParams": {
+        "referenceId": ""
+    }
+}
